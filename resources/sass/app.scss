@@ -7,9 +7,12 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
+
 // Plugins
-@import '~admin-lte/dist/css/adminlte.min.css';
+@import '~admin-lte/build/scss/AdminLTE.scss';
 @import '~@fortawesome/fontawesome-free/scss/solid.scss';
 @import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
 @import '~@fortawesome/fontawesome-free/scss/brands.scss';
-
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~vuetify/dist/vuetify.min.css';
+@import '~@mdi/font/css/materialdesignicons.min.css';
